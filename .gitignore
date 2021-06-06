@@ -71,3 +71,4 @@ launch.json
 
 # Webstorm
 .idea
+.DS_Store
