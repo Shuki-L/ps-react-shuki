@@ -64,7 +64,7 @@
     "promise": "^8.1.0",
     "prop-types": "^15.5.10",
     "react-addons-test-utils": "^15.6.0",
-    "react-dev-utils": "^4.0.0",
+    "react-dev-utils": "^11.0.4",
     "react-docgen": "^2",
     "react-prism": "^4.3.0",
     "react-test-renderer": "^17.0.1",
